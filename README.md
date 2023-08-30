@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-The 0x00. Shell, basics task
+This repo contains the "0x00. Shell, basics" task by Alx.

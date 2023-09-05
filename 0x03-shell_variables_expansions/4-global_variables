@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $(env | wc -l) - 1))
+printenv

@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#Displays a running processes
+# Displays a running processes
 
 ps -auxf

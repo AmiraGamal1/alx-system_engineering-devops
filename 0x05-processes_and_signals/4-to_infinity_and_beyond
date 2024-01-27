@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Displaying "To infinity and beyond" infinitely times
+# Display To infinity and beyond infinitly
 
 while "true"
   do

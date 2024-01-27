@@ -2,4 +2,4 @@
 # Displaying PID of bash running processes
 # shellcheck disable=SC2009
 
-pgrep -l bash
+pgrep bash -l

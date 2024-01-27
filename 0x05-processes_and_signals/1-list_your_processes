@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # Displays a running processes
-# shellcheck disable=SC2009
 
 ps auxf

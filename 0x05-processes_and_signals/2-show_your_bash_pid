@@ -2,4 +2,4 @@
 # Displaying the bash running processes
 # shellcheck disable=SC2009
 
-
+ps auxf | grep bash

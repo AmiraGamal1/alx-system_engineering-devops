@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 #Display "Best School" 10 times use until
-
-i=1
-until [ $i == 10 ]
+i=0
+until [ $i -eq 10 ]
 do
   echo "Best School"
   (( i++ ))

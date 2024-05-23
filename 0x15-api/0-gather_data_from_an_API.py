@@ -5,7 +5,6 @@
 from requests import get
 from sys import argv
 
-
 if __name__ == '__main__':
     main_url = 'https://jsonplaceholder.typicode.com'
     todo_url = main_url + "/user/{}/todos".format(argv[1])
